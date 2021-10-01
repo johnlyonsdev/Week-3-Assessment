@@ -1,0 +1,16 @@
+How does the internet work?
+    - The internet is composed of a large series of networks. These networks are
+    composed of a series of smaller networks. The internet works by these networks
+    sending and receiving information from one another. This allows them to connect
+    with each other and communicate packets back and forth. You can find specific
+    computers that you wish to communicate with using their IP address.
+What happens when you click a link?
+    - When you click a link, your browser makes a request to the server that that 
+    webpage is linked to. It identifies the server the webpage is linked to through
+    translating its domain name to it's unique IP address. If your browser or router don't
+    have the translated IP address saved in their local cache, your browser automatically
+    gets the translated address from the DNS. After the IP address you're making a request
+    from receives your request, it then runs whatever tasks it needs to do to prepare
+    the response you're requesting. Once this backend work is done, it responds back to you
+    with the neccesary HTML code for your browser to load the page. Once your browser loads the
+    HTML code for the page, you'll see the requested browser on your computer screen!
